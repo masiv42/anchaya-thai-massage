@@ -6,7 +6,7 @@ import { ServiceCard } from "@/components/sections/ServiceCard";
 import { TestimonialSlider } from "@/components/sections/TestimonialSlider";
 import { FAQSection } from "@/components/sections/FAQSection";
 import { businessInfo, services, whyChooseUs } from "@/data/siteContent";
-import heroImage from "@/assets/hero-buddha.jpg";
+import heroImage from "@/assets/hero-studio.jpg";
 
 const iconMap: Record<string, React.ReactNode> = {
   leaf: <Leaf className="w-6 h-6" />,
